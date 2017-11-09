@@ -1,3 +1,5 @@
+The main objective of the project is to program an iRobot Create to find its way out of the maze using a set of inbuilt sensors. 
+
 Maze:The iRobot moves from Start to End
 ReverseMaze:The iRobot moves from End to Start
 SMaze:iRobot simulation
